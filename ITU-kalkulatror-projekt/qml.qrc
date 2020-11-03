@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MyButton.qml</file>
+        <file>qml/MyClickButton.qml</file>
+        <file>qml/MyNumberButton.qml</file>
+        <file>qml/MyMenuButton.qml</file>
+        <file>qml/MyListButton.qml</file>
+        <file>pics/function-plot.png</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
